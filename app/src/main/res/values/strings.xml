@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Android Portfolio</string>
+
+    <string name="intro">This is an app to showcase all the projects I will be building within the Udacity Android Developers Nanodegree.</string>
+    <string name="app1_name">Spotify Streamer App</string>
+    <string name="app2_name">Football Scores App</string>
+    <string name="app3_name">Library App</string>
+    <string name="app4_name">Build It Bigger App</string>
+    <string name="app5_name">XYZ Reader App</string>
+    <string name="app6_name">Capstone App</string>
+    <string name="onclick_message">This button will launch my %1$s!</string>
+    <string name="action_settings">Settings</string>
+</resources>
